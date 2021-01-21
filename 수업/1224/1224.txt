@@ -1,0 +1,58 @@
+오큘러스 퀘스트 2
+영상, 소리 등을 전송속도를 감당할 수 없어서 케이블이 꼭 필요했는데 무선도 가능하게됨
+-> 장소의 구애를 받지 않게 됨.
+
+Web VR 플랫폼 의존성이 강하다.
+가볍게 실행할 수 있는 장점.
+(나온지 1년도안된 트랜디한. 뭐가 없으니 과제가 될 수 있음)
+
+마이크로 소프트 홀로렌즈 -> MR 컨텐츠 제작중
+미국 제조회사에서 상당히 많이 사용중,
+
+ms azure => 혼합현실 제공( 원격렌더링 등)
+대중화 됐을때는 이미 늦은 기술이다.
+
+아폴로 우주선때 계산원들이 직접 계산함
+
+홀로렌즈 비투비로 거래. 보낼때 디자이너와 프로그래머도 같이보내서
+맞춤형으로 제작해줌.,(서비스 컨설팅, 솔루션)
+
+엔디비아 agx 시스템. 자율주행 자동차 등 이런것들이 솔루션
+
+이런것들이 어떤 서비스랑 융합하는게 좋은지 알아보는게 중요.
+기술이 중요한게 아니다,
+
+기획이 있어야 방향성이 생길것,
+기획-개발-테스트-평가-기획
+
+
+State Machine 
+유한 상태 기계(fsm) ex) 주차차단기
+Transition 전위 / 상태변환 / 프로그램 상속 / 드리블 /
+상속 -> 사람을 봤느냐, 몬스터를 봤느냐 라고 말할 수 없다. 이건 너무나 추상적. 전준형을 봤느냐 고블린 을 봤느냐 구체적 필요
+
+Component 부품을만들어서 그걸 합쳐서 코딩하는 방법. 서로에게 영향을 받으면 안됨. 받으면 컴포넌트의 기능을 상실 (ex, 폐, 날개)
+
+프로그래머들은 이제 상속을 가지고 조금더 집중 => 많이 만들어야한다.
+디자이너는 콤포넌트로 좋은 작품을 만들어야함. => 어떤 컴퍼넌트가 있는지 잘 알아야 한다.
+
+
+Broad Casting 컴퍼넌트로 구성된 객체에 무언가 명령을 보냈을때 그 명령이 있는 컴퍼넌트가 실행되는 것, 방법
+Emitter 이때 보내는 메시지를 emit라고 한다.
+
+
+https://mommoo.tistory.com/55
+https://thefif19wlsvy.tistory.com/24
+https://m.blog.naver.com/PostView.nhn?blogId=ryutuna&logNo=100132788636&proxyReferer=https:%2F%2Fwww.google.com%2F
+https://blackbags.tistory.com/entry/FSM%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80
+https://skmagic.tistory.com/310
+https://m.blog.naver.com/PostView.nhn?blogId=debuff9710&logNo=221333379009&proxyReferer=https:%2F%2Fwww.google.com%2F
+https://ko.wikipedia.org/wiki/%EC%83%81%EC%86%8D_(%EA%B0%9D%EC%B2%B4_%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+
+
+Trigger Event 이벤트를 생성하는 방식. 상호작용이 일어날 만 한 것. 
+(조건에 닿으면 결과값이 나옴. 조건, 반사)
+플로우 컨트롤 중 하나 조건문
+
+Condition(비교문 <>==!<=... ) / Excute
+https://opentutorials.org/module/3921/23607
